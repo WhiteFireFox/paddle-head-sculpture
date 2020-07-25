@@ -15,3 +15,8 @@
 
 <br><br>
 ![](https://ai-studio-static-online.cdn.bcebos.com/33ac78298c174f388ab13708892420c016dcae390edd4df8a771608f2f02b961)![](https://ai-studio-static-online.cdn.bcebos.com/042cc1b204ab492289b41661afca44f360807cbe31584591b57d73aace946ce4)
+
+<font size=5>**更多项目**</font>
+<br><br>
+&emsp;&emsp;&emsp;&emsp;<font size=4>更好的项目体验：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/616345)
+<br><br>
