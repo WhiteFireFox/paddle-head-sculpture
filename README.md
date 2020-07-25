@@ -18,5 +18,5 @@
 
 <font size=5>**项目体验**</font>
 <br><br>
-&emsp;&emsp;&emsp;&emsp;<font size=4>更好的项目体验：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/616345)
+&emsp;&emsp;&emsp;&emsp;<font size=4>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/616345)
 <br><br>
