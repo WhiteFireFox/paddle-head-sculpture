@@ -20,3 +20,10 @@
 <br><br>
 &emsp;&emsp;&emsp;&emsp;<font size=4>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/616345)
 <br><br>
+## **关于作者**
+
+* 学校：哈尔滨工业大学(深圳)&emsp;大二在读
+* 感兴趣的方向：图像视频、强化学习
+* 个人兴趣：本人比较喜欢有趣的事情，会开源一些有趣的项目，项目简单且适合新手，欢迎大家常来fork
+* 主页：[主页](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/300112)
+* 我的公众号：Hello Neural Networks
